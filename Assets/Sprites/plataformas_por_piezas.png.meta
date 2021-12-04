@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: 4a4e21950e9a4b4af935e2e571a0d63e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6973744565675177487
+    second: plataformas_por_piezas_0
+  - first:
+      213: -3898524522358674872
+    second: plataformas_por_piezas_1
+  - first:
+      213: 1978123008081429526
+    second: plataformas_por_piezas_2
+  - first:
+      213: 5344932486498814226
+    second: plataformas_por_piezas_3
+  - first:
+      213: -3311185845800164618
+    second: plataformas_por_piezas_4
+  - first:
+      213: 4886054523911010046
+    second: plataformas_por_piezas_5
+  - first:
+      213: -2035436732158306907
+    second: plataformas_por_piezas_6
+  - first:
+      213: -7275519555326765946
+    second: plataformas_por_piezas_7
+  - first:
+      213: 1426071050298983766
+    second: plataformas_por_piezas_8
+  - first:
+      213: 308441055710838148
+    second: plataformas_por_piezas_9
+  - first:
+      213: -7705606500609374419
+    second: plataformas_por_piezas_10
+  - first:
+      213: -467877388669795153
+    second: plataformas_por_piezas_11
+  - first:
+      213: -4256058882823642834
+    second: plataformas_por_piezas_12
+  - first:
+      213: 6662696254435913721
+    second: plataformas_por_piezas_13
+  - first:
+      213: 3148024635554908928
+    second: plataformas_por_piezas_14
+  - first:
+      213: -803673934586845076
+    second: plataformas_por_piezas_15
+  - first:
+      213: -3326937205899700104
+    second: plataformas_por_piezas_16
+  - first:
+      213: 1912439041268254638
+    second: plataformas_por_piezas_17
+  - first:
+      213: 6133870906808947139
+    second: plataformas_por_piezas_18
+  - first:
+      213: 6430487544652893746
+    second: plataformas_por_piezas_19
+  - first:
+      213: -5469164488443003139
+    second: plataformas_por_piezas_20
+  - first:
+      213: -6475529311496623659
+    second: plataformas_por_piezas_21
+  - first:
+      213: 5425464699345316016
+    second: plataformas_por_piezas_22
+  - first:
+      213: 8589938418542538022
+    second: plataformas_por_piezas_23
+  - first:
+      213: -4477688417453643912
+    second: plataformas_por_piezas_24
+  - first:
+      213: 7310048237225032290
+    second: plataformas_por_piezas_25
+  - first:
+      213: -3423424864271981302
+    second: plataformas_por_piezas_26
+  - first:
+      213: -627729004593214979
+    second: plataformas_por_piezas_27
+  - first:
+      213: -320648275907925954
+    second: plataformas_por_piezas_28
+  - first:
+      213: 8735139532945349975
+    second: plataformas_por_piezas_29
+  - first:
+      213: -5843712269839476422
+    second: plataformas_por_piezas_30
+  - first:
+      213: 769393368163983472
+    second: plataformas_por_piezas_31
+  - first:
+      213: 873653419961054963
+    second: plataformas_por_piezas_32
+  - first:
+      213: 8066720182891953480
+    second: plataformas_por_piezas_33
+  - first:
+      213: -3511443461157116320
+    second: plataformas_por_piezas_34
+  - first:
+      213: -1987520613278700031
+    second: plataformas_por_piezas_35
+  - first:
+      213: 4490305192895196491
+    second: plataformas_por_piezas_36
+  - first:
+      213: 2025127513516863696
+    second: plataformas_por_piezas_37
+  - first:
+      213: -7806871150116893564
+    second: plataformas_por_piezas_38
+  - first:
+      213: -2590763203635730835
+    second: plataformas_por_piezas_39
+  - first:
+      213: 1620777648631917238
+    second: plataformas_por_piezas_40
+  - first:
+      213: 440873147113473675
+    second: plataformas_por_piezas_41
+  - first:
+      213: 8363101134151787925
+    second: plataformas_por_piezas_42
+  - first:
+      213: -4057591823839955945
+    second: plataformas_por_piezas_43
+  - first:
+      213: 8266189013991921665
+    second: plataformas_por_piezas_44
+  - first:
+      213: 4963460536415884034
+    second: plataformas_por_piezas_45
+  - first:
+      213: 4775273738458716688
+    second: plataformas_por_piezas_46
+  - first:
+      213: -1118270925475177365
+    second: plataformas_por_piezas_47
+  - first:
+      213: 705811298186882739
+    second: plataformas_por_piezas_48
+  - first:
+      213: -6532760412843685929
+    second: plataformas_por_piezas_49
+  - first:
+      213: 6442619212582581935
+    second: plataformas_por_piezas_50
+  - first:
+      213: -4126601431485554549
+    second: plataformas_por_piezas_51
+  - first:
+      213: -7375309853916720273
+    second: plataformas_por_piezas_52
+  - first:
+      213: 8205542192577069474
+    second: plataformas_por_piezas_53
+  - first:
+      213: -4982650080122532222
+    second: plataformas_por_piezas_54
+  - first:
+      213: 8753239011734603819
+    second: plataformas_por_piezas_55
+  - first:
+      213: 6515085748293569349
+    second: plataformas_por_piezas_56
+  - first:
+      213: -1622434604942493404
+    second: plataformas_por_piezas_57
+  - first:
+      213: 7017991495040952445
+    second: plataformas_por_piezas_58
+  - first:
+      213: 6790807930462349580
+    second: plataformas_por_piezas_59
+  - first:
+      213: -998103968317080339
+    second: plataformas_por_piezas_60
+  - first:
+      213: -6704204294251227669
+    second: plataformas_por_piezas_61
+  - first:
+      213: -2543000898336457155
+    second: plataformas_por_piezas_62
+  - first:
+      213: 8188722732601407954
+    second: plataformas_por_piezas_63
+  - first:
+      213: -3733403490111103048
+    second: plataformas_por_piezas_64
+  - first:
+      213: -3923606789705634500
+    second: plataformas_por_piezas_65
+  - first:
+      213: 7034566947426647302
+    second: plataformas_por_piezas_66
+  - first:
+      213: 6144519326347959927
+    second: plataformas_por_piezas_67
+  - first:
+      213: -6353765568615759964
+    second: plataformas_por_piezas_68
+  - first:
+      213: 6600801360350858753
+    second: plataformas_por_piezas_69
+  - first:
+      213: -4913537276219873551
+    second: plataformas_por_piezas_70
+  - first:
+      213: 5184935760979014431
+    second: plataformas_por_piezas_71
+  - first:
+      213: -6713546568816007934
+    second: plataformas_por_piezas_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plataformas_por_piezas_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9ce981448483f90800000000000000
+      internalID: -6973744565675177487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a69a82a98a5e9c0800000000000000
+      internalID: -3898524522358674872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61488b23564b37b10800000000000000
+      internalID: 1978123008081429526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219053e17c30d2a40800000000000000
+      internalID: 5344932486498814226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2a7c3440e4c02d0800000000000000
+      internalID: -3311185845800164618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f7eab3b0cec340800000000000000
+      internalID: 4886054523911010046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a51ce8831da0c3e0800000000000000
+      internalID: -2035436732158306907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68417540389280b90800000000000000
+      internalID: -7275519555326765946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 278
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550a89801c6ac310800000000000000
+      internalID: 1426071050298983766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7ac7818dc74400800000000000000
+      internalID: 308441055710838148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27cc38b6bf201590800000000000000
+      internalID: -7705606500609374419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa446e17ef3c189f0800000000000000
+      internalID: -467877388669795153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21a622eef07fe4c0800000000000000
+      internalID: -4256058882823642834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff6af361f6a67c50800000000000000
+      internalID: 6662696254435913721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bcd622ab700bb20800000000000000
+      internalID: 3148024635554908928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68e5b580d6c8d4f0800000000000000
+      internalID: -803673934586845076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8785154fc3854d1d0800000000000000
+      internalID: -3326937205899700104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 259
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7026dec295a8a10800000000000000
+      internalID: 1912439041268254638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c153725713ef1550800000000000000
+      internalID: 6133870906808947139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0c970a5ead3950800000000000000
+      internalID: 6430487544652893746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe7c28efdf9914b0800000000000000
+      internalID: -5469164488443003139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92d97666c4226a0800000000000000
+      internalID: -6475529311496623659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b826e1166f1b4b40800000000000000
+      internalID: 5425464699345316016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d65bfea77953770800000000000000
+      internalID: 8589938418542538022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8776bceab1e0cd1c0800000000000000
+      internalID: -4477688417453643912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab4c63422827560800000000000000
+      internalID: 7310048237225032290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0524d9593d8d70d0800000000000000
+      internalID: -3423424864271981302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_27
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90302dbcbd947f0800000000000000
+      internalID: -627729004593214979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38aaa88714dc8bf0800000000000000
+      internalID: -320648275907925954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dddacdf13793970800000000000000
+      internalID: 8735139532945349975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3950a2e6a6f6eea0800000000000000
+      internalID: -5843712269839476422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a4f1213f6daa00800000000000000
+      internalID: 769393368163983472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f675991827df1c00800000000000000
+      internalID: 873653419961054963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dbfbb544fb2ff60800000000000000
+      internalID: 8066720182891953480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066acd8c6c8d44fc0800000000000000
+      internalID: -3511443461157116320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ea1c55888ea64e0800000000000000
+      internalID: -1987520613278700031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2c9348c4c05e30800000000000000
+      internalID: 4490305192895196491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_37
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0fa047eb2ba1c10800000000000000
+      internalID: 2025127513516863696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c89023d0c68a390800000000000000
+      internalID: -7806871150116893564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_39
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a32eb792cb0cd0800000000000000
+      internalID: -2590763203635730835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba29962fa82e7610800000000000000
+      internalID: 1620777648631917238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8605bc9acb4e1600800000000000000
+      internalID: 440873147113473675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a8c10c24bf0470800000000000000
+      internalID: 8363101134151787925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_43
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147d78fbb980b7c0800000000000000
+      internalID: -4057591823839955945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_44
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 202
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1089931bc1767b270800000000000000
+      internalID: 8266189013991921665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_45
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031db17f01c1e440800000000000000
+      internalID: 4963460536415884034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a55162a2e254240800000000000000
+      internalID: 4775273738458716688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c9764a48a1b70f0800000000000000
+      internalID: -1118270925475177365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee2ead2ab8bc900800000000000000
+      internalID: 705811298186882739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7c7bd3409f655a0800000000000000
+      internalID: -6532760412843685929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_50
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa677151a08c86950800000000000000
+      internalID: 6442619212582581935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_51
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 183
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b806faa9cdd5bb6c0800000000000000
+      internalID: -4126601431485554549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f631bd093c2a5a990800000000000000
+      internalID: -7375309853916720273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_53
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1490a3621ffd170800000000000000
+      internalID: 8205542192577069474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e893eb6221adab0800000000000000
+      internalID: -4982650080122532222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2848882180c97970800000000000000
+      internalID: 8753239011734603819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_56
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b8f3c38fb3a6a50800000000000000
+      internalID: 6515085748293569349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429f915a254fb79e0800000000000000
+      internalID: -1622434604942493404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e0a2f41ae46160800000000000000
+      internalID: 7017991495040952445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_59
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092d1165dbcd3e50800000000000000
+      internalID: 6790807930462349580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_60
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7d8f9ab50622f0800000000000000
+      internalID: -998103968317080339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5d18bf6b1e5f2a0800000000000000
+      internalID: -6704204294251227669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_62
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ef727082275bcd0800000000000000
+      internalID: -2543000898336457155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_63
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d97fd880ff24a170800000000000000
+      internalID: 8188722732601407954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_64
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf59b06e49403cc0800000000000000
+      internalID: -3733403490111103048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3de845b96c8c89c0800000000000000
+      internalID: -3923606789705634500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60db1123e5dcf9160800000000000000
+      internalID: 7034566947426647302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_67
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e1e72b5c7b54550800000000000000
+      internalID: 6144519326347959927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afbc8801e3e2d7a0800000000000000
+      internalID: -6353765568615759964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ec0ac5dd1ca9b50800000000000000
+      internalID: 6600801360350858753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_70
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6264c51eb9fcbb0800000000000000
+      internalID: -4913537276219873551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_71
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13bf588a9794f740800000000000000
+      internalID: 5184935760979014431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataformas_por_piezas_72
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 126
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205edae27f0b4d2a0800000000000000
+      internalID: -6713546568816007934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
